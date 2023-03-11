@@ -13,3 +13,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.sub {
+  font-size: 40px;
+  font-weight: 700;
+  color: #113583;
+  margin-bottom: 40px;
+  background-color: #f08b08;
+  background-color: #d49037;
+  background-color: #f5e1c7;
+  color: #113685;
+  text-shadow: 1px 1px 1px #113685;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+
