@@ -30,7 +30,7 @@ export function App() {
           <Route
             path="/contacts"
             element={
-              <PrivateRoute redirectTo="/" component={<LazyContacts />} />
+              <PrivateRoute redirectTo="/contacts" component={<LazyContacts />} />
             }
           />
           <Route
